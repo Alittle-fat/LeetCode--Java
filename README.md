@@ -1,1 +1,1 @@
-#### this is my own record of leetcode
+#### this is my own record of leetcode,fight together!
